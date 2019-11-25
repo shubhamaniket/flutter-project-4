@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Design inspired by Dribbble
+Design inspired from Dribbble
 
 ## Getting Started
 
